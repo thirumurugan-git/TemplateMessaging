@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/history" android:id="@+id/history" android:title="history" app:showAsAction="ifRoom"/>
+    <item android:icon="@drawable/demo" android:id="@+id/demo" android:title="demo" app:showAsAction="ifRoom"/>
+    <item android:icon="@drawable/plus" android:id="@+id/add" android:title="add" app:showAsAction="ifRoom"/>
+</menu>

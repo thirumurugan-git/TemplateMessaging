@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="horizontal" android:padding="10dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageButton android:id="@+id/right" android:background="#ffffff" android:layout_width="35dp" android:layout_height="35dp" android:src="@drawable/go" android:scaleType="fitCenter" android:adjustViewBounds="true"/>
+    <ImageButton android:id="@+id/edit" android:background="#ffffff" android:layout_width="35dp" android:layout_height="35dp" android:src="@drawable/edit" android:scaleType="fitCenter" android:adjustViewBounds="true"/>
+    <ImageButton android:id="@+id/cancel" android:background="#ffffff" android:layout_width="35dp" android:layout_height="35dp" android:src="@drawable/delete" android:scaleType="fitCenter" android:adjustViewBounds="true"/>
+    <TextView android:textSize="20dp" android:id="@+id/text" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>
